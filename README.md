@@ -121,64 +121,14 @@ All the contributions to add useful Github repositories with important and usefu
 
 ## Thank you for your contribution
 
-<!-- readme: contributors -start -->
+<!-- readme: contributors -start --> 
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/muchirijane">
-            <img src="https://avatars3.githubusercontent.com/u/54930887?v=4" width="100;" alt="muchirijane"/>
+        <a href="https://github.com/puspad">
+            <img src="https://avatars.githubusercontent.com/u/16360422?v=4" width="100;" alt="puspad"/>
             <br />
-            <sub><b>Jane Tracy Muthoni</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Hackerbone">
-            <img src="https://avatars3.githubusercontent.com/u/20267705?v=4" width="100;" alt="Hackerbone"/>
-            <br />
-            <sub><b>Sitaraman S</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/trivedidhruvil9">
-            <img src="https://avatars0.githubusercontent.com/u/56179904?v=4" width="100;" alt="trivedidhruvil9"/>
-            <br />
-            <sub><b>Dhruvil Trivedi</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/MicheleMarschner">
-            <img src="https://avatars0.githubusercontent.com/u/49597398?v=4" width="100;" alt="MicheleMarschner"/>
-            <br />
-            <sub><b>Michele Marschner</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/viraldevpb">
-            <img src="https://avatars3.githubusercontent.com/u/66899360?v=4" width="100;" alt="viraldevpb"/>
-            <br />
-            <sub><b>Prathamesh Borse</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/d02d33pak">
-            <img src="https://avatars1.githubusercontent.com/u/21690808?v=4" width="100;" alt="d02d33pak"/>
-            <br />
-            <sub><b>Deepak Talan</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/leaggg">
-            <img src="https://avatars0.githubusercontent.com/u/67368902?v=4" width="100;" alt="leaggg"/>
-            <br />
-            <sub><b>Lea</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/GriffinMLN">
-            <img src="https://avatars1.githubusercontent.com/u/65615065?v=4" width="100;" alt="GriffinMLN"/>
-            <br />
-            <sub><b>GriffinMLN</b></sub>
+            <sub><b>Puspad Sharma</b></sub>
         </a>
     </td></tr>
 </table>
